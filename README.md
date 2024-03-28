@@ -10,10 +10,10 @@
 ## Fibonacci Overview
 - The Fibonacci sequence is a series of numbers where each number is the sum of the two preceding ones, starting with 0 and 1.
 
-## Explanation of the Sequence:
+### Explanation of the Sequence:
 - The sequence starts with 0 and 1, and each subsequent number is the sum of the two previous ones. So, it goes like this: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, and so on, infinitely.
 
-## Properties and Applications:
+### Properties and Applications:
 - The ratio of consecutive Fibonacci numbers approaches the golden ratio (approximately 1.6180339887).
 - It's seen in nature (leaf arrangements, branching of trees).
 - Useful in mathematics (number theory) and computer science (algorithms).
