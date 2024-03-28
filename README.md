@@ -7,8 +7,7 @@
 - The team have the choice to choose any programming languages, as well as their functionality (what they do). For monolithic programs, the C language is recommended (use of the goto command);
 - The finished work must be presented in the classroom, with the following requirements met: Description and Execution of the Program, presentation of examples of computed functions involving the implemented programs;
 
-# Fibonacci
-## Overview:
+## Fibonacci Overview
 - The Fibonacci sequence is a series of numbers where each number is the sum of the two preceding ones, starting with 0 and 1.
 
 ## Explanation of the Sequence:
