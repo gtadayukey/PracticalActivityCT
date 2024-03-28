@@ -8,16 +8,16 @@ int fibonacci(int n) {
 }
 
 int main() {
-    int n;
+    int n, i = 1;
     
     scanf("%d", &n);
     
     printf("\n");
     
-    for (int i = 0; i < n; i++) {
+    while (i < n) {
         printf("%d\n", fibonacci(i));
+	i++;
     }
 
     return 0;
 }
-
