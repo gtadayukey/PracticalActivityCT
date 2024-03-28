@@ -1,5 +1,5 @@
 # PracticalActivityCT
-- Este repositório contém três programas em Linguagem C: monolítico, iterativo e recursivo, cada um calculando a soma dos números de 1 a 10. Utilizei o método da Máquina de Traços para identificar equivalência forte entre os programas. O código fonte e a apresentação usada em sala de aula estão disponíveis aqui.
+- This repository contains three C language programs: monolithic, iterative and recursive, each calculating the Fibonacci sequence. I used the Trace Machine method to identify strong equivalence between the programs. The source code and presentation used in the classroom are available here.
 
 ## Instruction
 - Present simple programs (with the same function) of each type: Monolithic, Iterative and Recursive;
