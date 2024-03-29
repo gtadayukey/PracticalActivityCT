@@ -1,5 +1,5 @@
 # PracticalActivityFibonacci
-- This repository contains three C language programs: monolithic, iterative and recursive, each calculating the Fibonacci sequence. I used the Trace Machine method to identify strong equivalence between the programs. The source code and presentation used in the classroom are available here.
+- This repository contains a **College Activity** with three C language programs: monolithic, iterative and recursive, each calculating the Fibonacci sequence. I used the Trace Machine method to identify strong equivalence between the programs. The source code and presentation used in the classroom are available here.
 
 ## Instruction
 - Present simple programs (with the same function) of each type: Monolithic, Iterative and Recursive;
