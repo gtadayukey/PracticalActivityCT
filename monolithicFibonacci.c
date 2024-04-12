@@ -1,11 +1,15 @@
 #include <stdio.h>
 
 int main() {
-    int first = 0, second = 1, next, i = 2, n;
+    int count;
+    int next;
+    int first = 0; 
+    int second = 1; 
+    int i = 2;
     
-    scanf("%d", &n);
+    scanf("%d", &count);
     
-    if (n >= 1)
+    if (count >= 1)
         printf("\n%d\n", first);
     else
         goto end;
@@ -14,13 +18,13 @@ int main() {
         printf("%d\n", second);
     else
         goto end;
-    
-    redo: if(n > i){
+ 
+    redo: if(count > i){
         next = first + second;
         printf("%d\n", next);
         first = second;
         second = next;
-        i++;
+        count++;
         goto redo;
     }
 
