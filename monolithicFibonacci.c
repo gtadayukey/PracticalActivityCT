@@ -14,7 +14,7 @@ int main() {
     else
         goto end;
         
-    if (n >= 2)
+    if (count >= 2)
         printf("%d\n", second);
     else
         goto end;
@@ -24,7 +24,7 @@ int main() {
         printf("%d\n", next);
         first = second;
         second = next;
-        count++;
+        i++;
         goto redo;
     }
 
